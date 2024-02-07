@@ -1,0 +1,125 @@
+header{
+    width: 100%;
+    left: 0;
+    right: 0;
+    background-color: rgb(13, 13, 14);
+    padding: 0.5rem;
+    
+}
+.logo img{
+    width: 2rem;
+    border-radius: 10px;    
+}
+.logo h2{
+    color: #c4e1f8;
+    display: inline-block;
+    vertical-align: middle;
+    width: 50%;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+body{
+    margin: 0;
+}
+nav{
+    display: inline-block;
+    text-align: right;
+    width: 90%;
+    vertical-align: middle;
+}
+ul{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 1rem;
+}
+a{
+    text-decoration: none;
+    color: rgb(240, 238, 238);
+    font-weight: bold;
+    padding: 0.2rem 0rem;
+}
+.butt{
+    background-color: brown;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+.butt a{
+    color: aqua;
+}
+.body-content{
+    width: 100%;
+    background:linear-gradient(130deg,#c4e1f8,#eeb0bd);
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5px;
+     
+}
+.d-img img{
+    width: 350px;
+}
+.text span{
+    text-transform: uppercase;
+    font-weight: bolder;
+    letter-spacing: 1.8px;
+    font-size: 150%;
+    color: rgb(250, 13, 13);
+}
+h4{
+    text-align: center;
+}
+.text h1,h3{
+    text-transform: uppercase;
+    font-weight: normal;
+    letter-spacing: 1.8px;
+    color: #444;
+    
+}
+.class2 p span{
+    color: #444;
+    font-size: 100%;
+    text-align: right;
+
+}
+p{
+    color: #800be7;
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 1.4px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+button{
+    padding: 10px 20px;
+    background-color: #fff;
+    color: aquamarine;
+    text-transform: uppercase;
+    font-weight: bolder;
+    border-radius: 30px;
+    transition: 0.3px;
+}
+button:hover{
+    color: #eeb0bd;
+    background-color: #f8731b;
+}
+.idea{
+    list-style:armenian;
+    text-decoration:solid;
+}
+.id b {
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+
+#foot p{
+    color: #030000;
+}
